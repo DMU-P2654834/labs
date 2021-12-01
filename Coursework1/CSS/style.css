@@ -1,0 +1,132 @@
+body{
+  background-color: azure;
+}
+
+.title{
+  color:MediumBlue;
+  text-align: center;
+  font-family: verdana;
+  font-size: 60px;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color:LightSeaGreen;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+font-family: verdana;
+font-size: 20px
+}
+
+li a:hover {
+background-color: PaleTurquoise;
+}
+
+h2{
+  text-align: center;
+  font-family: verdana;
+  font-size: 30px;
+  color: teal;
+}
+
+.synopsis{
+  text-align: center;
+  font-family: verdana;
+  font-size: 22px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+video{
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+.castpage{
+  color: navy;
+  font-size: 24px;
+  font-family: verdana;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.castsection1{
+  padding-bottom:10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.castsection2{
+  padding-top: 30px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.AshtonPic{
+  float: left;
+  width: 270px;
+  height: 360px;
+  padding: 0px 10px;
+  margin: 0px 5px;
+}
+
+.AshtonAbout{
+  font-size: 22px;
+  font-family: verdana;
+  color:black;
+  padding: 10px;
+  margin: 15px;
+}
+
+.MilaPic{
+  float: left;
+  width: 270px;
+  height: 360px;
+  padding: 0px 10px;
+  margin: 0px 5px;
+}
+
+.MilaAbout{
+  font-size: 22px;
+  font-family: verdana;
+  color:black;
+  padding: 10px;
+  margin: 15px;
+}
+
+audio{
+  padding: 5px 0px;
+  margin: 5px 0px;
+}
+
+.extra{
+  margin-left: auto;
+}
+
+.caption{
+  font-size: 16px;
+  font-family: verdana;
+  color: darkcyan;
+}
+
+.footer{
+  font-size: 18px;
+  color: black;
+  text-align: center;
+  margin-top: 60px;
+  padding: 10px;
+  background-color: LightSeaGreen;
+}
